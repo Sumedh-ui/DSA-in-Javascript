@@ -1,3 +1,4 @@
+// Quick Sort Algorithm for sorting the array 
 function partition(arr, low, high) {
     const pivot = arr[low];
     let i = low;
